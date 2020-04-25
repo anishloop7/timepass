@@ -1,0 +1,26 @@
+body{
+  background-color: #011627;
+  color: #FDFFFC;
+  font-family: "Ink Free";
+  font-size: 20px;
+  text-align: center;
+  border: 40px solid #2EC486;
+  border-top: 0px;
+  margin: 0px;
+}
+
+p{
+  padding: 5% 20% 0px 20% ;
+}
+form{
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+#sub{
+  background-color: #FF9F1C;
+  height: 80px;
+  width: 150px;
+  margin: 4px;
+  font-size: 1em;
+  border-radius: 25px;
+}
